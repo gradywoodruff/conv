@@ -1,7 +1,7 @@
 # Audio Conv
 A mass converter for audio samples
 
-### Starting Django
+### Starting Conv
 First create a new virtual env, and change directories
 
 	virtualenv -p python3 audio_conv
@@ -20,4 +20,4 @@ Install django
 Run a conv
 	
 	cd/app
-	bin/run '/path/to/folder'
+	bin/run /path/to/folder
