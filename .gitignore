@@ -20,3 +20,6 @@ pip-selfcheck.json
 
 # app
 app/config.py
+
+# add
+!bin/run
