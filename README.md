@@ -12,12 +12,11 @@ Add the new folder as the source make sure Pip is running in that folder
 	source bin/activate
 	which pip
 
-Install django
+Install dependencies
 
-	pip install numpy
-	pip install pydub
+    source bin/activate
+    pip install -r requirements.txt
 
 Run a conv
 	
-	cd/app
 	bin/run /path/to/folder
