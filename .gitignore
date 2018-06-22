@@ -17,3 +17,6 @@ static/
 db.sqlite3
 .Python
 pip-selfcheck.json
+
+# app
+app/config.py
