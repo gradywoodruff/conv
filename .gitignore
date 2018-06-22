@@ -1,0 +1,19 @@
+# python cache
+*.py[oc]
+__pycache__/
+
+# IDE files
+.idea/
+*.sublime-*
+
+# Env
+bin/
+etc/
+share/
+include/
+lib/
+media/
+static/
+db.sqlite3
+.Python
+pip-selfcheck.json
