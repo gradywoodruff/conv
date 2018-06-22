@@ -3,6 +3,7 @@ import fnmatch
 
 import config
 
+
 def list_files(dir):
     r = []
     for root, dirs, files in os.walk(dir):
