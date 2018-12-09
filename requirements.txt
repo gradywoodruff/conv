@@ -1,4 +1,0 @@
-cffi==1.11.5
-numpy==1.14.5
-pycparser==2.18
-pydub==0.22.1
